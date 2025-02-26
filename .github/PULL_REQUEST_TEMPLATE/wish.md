@@ -102,7 +102,6 @@
 	- **We strongly recommend the [CC0 license](https://creativecommons.org/publicdomain/zero/1.0/), but any [Creative Commons license](https://creativecommons.org/choose/) will work.**
 	- A code license like MIT, BSD, Apache, GPL, etc, is not acceptable. Neither are WTFPL and [Unlicense](https://unlicense.org).
 	- Place a file named `license` or `LICENSE` in the repo root with the license text.
-	- **Do not** add the license name, text, or a `Licence` section to the readme. GitHub already shows the license name and link to the full text at the top of the repo.
 - [ ] Has consistent formatting and proper spelling/grammar.
      
 ## Status Indicators
