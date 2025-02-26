@@ -30,6 +30,7 @@
 
 ## Existing Platforms
 
+- [x.com](/)
 - [Add](contributing.md) 📜
 
 ## Proposed Tools
