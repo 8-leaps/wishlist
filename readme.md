@@ -30,15 +30,15 @@
 
 ## Existing Platforms
 
-- To be added
+- [Add](contributing.md) 📜
 
 ## Proposed Tools
 
-- To be added
+- [Add](contributing.md) 📜
 
 ## Related
 
-- To be added
+- [Add](contributing.md) 📜
 
 ## Contributing
 
